@@ -49,5 +49,10 @@ body{
     height: 70%;
     width: 100%;
 }
+.wrapcard{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
 
 
