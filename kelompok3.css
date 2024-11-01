@@ -27,6 +27,13 @@ body{
 .button{
     background-color: pink;
 }
+.backbutton{
+    background-color: rgb(35, 67, 98);
+    height: 50px;
+    width: 500px;
+    border-radius: 20px;
+    padding-block: 10px;
+}
 @media (max-width: 767px) {
     .bottomimg{
         margin-top: -300px;
