@@ -1,0 +1,40 @@
+body{
+    background: linear-gradient(rgb(210, 105, 121), white);
+}
+*{
+    font-family: "Poppins", sans-serif;
+}
+.wraptittle{
+    background-color:  rgb(213, 159, 169);
+    width: 80%;
+    height: 100px;
+    align-content: center;
+    text-align: center;
+    color: white;
+    border-radius: 20px;
+}
+.card{
+    text-decoration: none;
+}
+.bottomimg{
+    margin-top: -400px;
+}
+.wrapdropdown{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.button{
+    background-color: pink;
+}
+@media (max-width: 767px) {
+    .bottomimg{
+        margin-top: -300px;
+    }
+}
+
+@media (max-width: 543px) {
+    .bottomimg{
+        margin-top: -150px;
+    }
+}
