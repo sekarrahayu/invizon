@@ -64,8 +64,17 @@ body{
     padding-block: 60px; 
     border-radius: 20px;
 }
-.card{
+.card1{
     text-decoration: none;
+}
+.card1:hover{
+    transform: scale(1.1);
+    transition: all 0.3s;
+}
+.animation:hover{
+    transform: scale(0.9);
+    transition: all 0.5s;
+    border: 5px solid black;
 }
 
 @media (max-width: 767px) {
