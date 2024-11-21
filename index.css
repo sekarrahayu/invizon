@@ -97,4 +97,22 @@ body{
     }
 }
 
+@media (max-width: 1399px) and (min-width: 1200px) {
+    .heightmiddle{
+        height: 305px;
+    }
+}
+
+@media (max-width: 1199px) and (min-width: 992px) {
+    .heightmiddle{
+        height: 272px;
+    }
+}
+
+@media (max-width: 991px) and (min-width: 768px) {
+    .heightmiddle{
+        height: 295px;
+    }
+}
+
 
