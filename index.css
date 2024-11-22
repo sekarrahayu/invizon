@@ -88,7 +88,11 @@ body{
     margin-left: auto; 
     margin-right: 5%;
 }
-.addprojek:hover{
+.projek{
+    text-decoration: none;
+    color: white;
+}
+.projek:hover{
     color: black;
 }
 
