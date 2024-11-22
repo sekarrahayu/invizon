@@ -16,6 +16,8 @@ body{
     border-radius: 0px 0px 10px 10px;
     z-index: 99;
     position: relative;
+    display: flex;
+    justify-content: center;
 }
 .firstimg{
     width: 100%;
@@ -79,6 +81,15 @@ body{
 }
 .heightmiddle{
     height: 340px;
+}
+.addprojek{
+    color: white; 
+    font-size: 20px; 
+    margin-left: auto; 
+    margin-right: 5%;
+}
+.addprojek:hover{
+    color: black;
 }
 
 @media (max-width: 767px) {
