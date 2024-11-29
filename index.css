@@ -110,6 +110,10 @@ body{
         padding-block: 10px;
         padding-inline: 10px;
     }
+    .fontsize{
+        font-size: 15px;
+        align-content: center;
+    }
 }
 
 @media (max-width: 1399px) and (min-width: 1200px) {
